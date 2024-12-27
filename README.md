@@ -1,6 +1,6 @@
-# Notify me when it finishes
+# Notify me when it ends
 
-A [bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet) that notifies you when a video on the page finishes playing.
+A [bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet) that notifies you when a video on the page ends.
 
 Created in 10 minutes with Claude-3.5-sonnet.
 
